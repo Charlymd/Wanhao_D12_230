@@ -1,6 +1,6 @@
 # Wanhao_D12_230
 Repo for specific Wanhao D12 configuration to build Marlin firmware
-You can find latest firmware sources on Marlin Guthub : https://github.com/MarlinFirmware/Marlin
+You can find latest firmware sources on Marlin Github : https://github.com/MarlinFirmware/Marlin
 
 Adaptated configuration for Wanhao D12 230 duplicator
  * With MKS Robin nano 3.1,
